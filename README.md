@@ -1,2 +1,2 @@
 # eye-centre-detection
-Accurate eye center detection
+ACCURATE EYE CENTRE LOCALISATION BY MEANS OF GRADIENTS
